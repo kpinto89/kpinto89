@@ -1,10 +1,6 @@
 # Hi there 👋
 
-## Kevin Vivek Pinto
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kpinto89&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
-</p>
+## Kevin Vivek Pinto here
 
 > Senior Technical Lead with experience in Java, Spring Boot, microservices, cloud-native systems, and enterprise production support across financial, insurance, networking, and healthcare domains.
 
@@ -66,6 +62,10 @@
 </p>
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kpinto89&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpinto89&theme=tokyonight" alt="GitHub Stats" width="420" />
