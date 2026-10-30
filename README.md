@@ -58,14 +58,14 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpinto89&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpinto89&theme=tokyonight" alt="GitHub Stats" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpinto89&theme=tokyonight" alt="GitHub Streak" width="420" />
+  <img src="https://streak-stats.demolab.com/?user=kpinto89&theme=tokyonight" alt="GitHub Streak" width="420" />
 </p>
 
----
+---------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <i>Building reliable systems, one release at a time.</i>
