@@ -3,18 +3,6 @@
 ## Kevin Vivek Pinto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinvivekpinto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-kevinvivekpinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kevinpinto1003@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-kevinpinto1003@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/kpinto89" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kpinto89-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kpinto89&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
 </p>
 
@@ -71,8 +59,11 @@
 
 ## Contact
 
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="12" height="12" /> LinkedIn](https://www.linkedin.com/in/kevinvivekpinto)
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="12" height="12" /> GitHub](https://github.com/kpinto89)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevinvivekpinto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-kevinvivekpinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kevinpinto1003@yahoo.com"><img src="https://img.shields.io/badge/Email-kevinpinto1003@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/kpinto89" target="_blank"><img src="https://img.shields.io/badge/GitHub-kpinto89-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
 
 ## GitHub Stats
 
