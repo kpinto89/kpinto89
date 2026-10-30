@@ -1,6 +1,6 @@
 ## Hi there 👋
+## Kevin Vivek Pinto here
 
-<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinvivekpinto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-kevinvivekpinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kvpmar10@gmail.com"><img src="https://img.shields.io/badge/Email-kvpmar10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -70,4 +70,3 @@
 <p align="center">
   <i>Building reliable systems, one release at a time.</i>
 </p>
--->
